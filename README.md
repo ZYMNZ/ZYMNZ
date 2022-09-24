@@ -2,7 +2,7 @@
 <h1 align="center">Konnichiwa, I'm Conan</h1>
 <h2 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
 <img align="right" alt="GIF"  width="600" src="https://c.tenor.com/_ddSsFirCcUAAAAd/shinobu.gif">
-<img align="left" alt="GIF"  width="600" src="<iframe width="900" height="506" src="https://www.youtube.com/embed/goxmvGJkoi0" title="Kami カミ ☯ Japanese Lofi HipHop Mix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>">
+
 
 - Currently learning **Java, SQL, HTML, CSS, JavaScript**
 <h3 align="left">Languages:</h3>
