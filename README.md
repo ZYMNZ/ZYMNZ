@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zymnz" alt="zymnz" /></a> </p>
 
-- I’m currently working on **.**
+**- I’m currently working on. **
 
 - I’m currently learning **Java, SQL, HTML, CSS, JavaScript, Unity & Blender**
 
-- I’m looking to collaborate on **.**
+**- I’m looking to collaborate on .**
 
-- I’m looking for help with **.**
+**- I’m looking for help with .**
 
-- Ask me about **.**
+- Ask me about Java & anime 
 
 - Fun fact **.**
 
