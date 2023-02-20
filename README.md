@@ -9,7 +9,7 @@
 
 - I’m currently working on **.**
 
-- I’m currently learning **.**
+- I’m currently learning **Java, SQL, HTML, CSS, JavaScript, Unity & Blender**
 
 - I’m looking to collaborate on **.**
 
