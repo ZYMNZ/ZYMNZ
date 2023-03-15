@@ -1,5 +1,6 @@
 
-![MasterHead = "center"](https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-25.gif) 
+<img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-25.gif" alt="Hello" width="600px">
+
 <h1 align="center">Hey, I'm Conan</h1>
 <h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
 <img align="right" alt="GIF"  width="600" src="https://c.tenor.com/_ddSsFirCcUAAAAd/shinobu.gif">
@@ -47,4 +48,3 @@
 ZYMNZ/ZYMNZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
