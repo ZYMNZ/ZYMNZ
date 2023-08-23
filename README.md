@@ -22,8 +22,8 @@
 
 <!-- Fun fact **.** -->
 
-- You can reach out to me through **[Discord](https://discordapp.com/users/769693566875336715)**
-
+- You can reach out to me through **Discord** `conan7x`
+<!--(https://discordapp.com/users/769693566875336715) -->
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
