@@ -16,7 +16,7 @@
 
 <!-- I’m looking to collaborate on .** -->
 
-- I’m looking for help with **VR mods**
+- I’m looking for help with **mods**
 
 - Ask me about **Java || anime**
 
