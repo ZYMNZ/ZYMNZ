@@ -12,7 +12,7 @@
 
 <!-- I’m currently working on. -->
 
-- I’m currently learning **Java, SQL, HTML, CSS, JavaScript, Unity & Blender**
+- I’m currently learning **Java, SQL, HTML, CSS, JavaScript, PHP**
 
 <!-- I’m looking to collaborate on .** -->
 
