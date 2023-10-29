@@ -12,13 +12,11 @@
 
 <!-- I’m currently working on. -->
 
-- I’m currently learning **Java, SQL, HTML, CSS, JavaScript, PHP**
+- I’m currently learning **Java, SQL, HTML, CSS, JavaScript, PHP, Dart, Flutter**
 
 <!-- I’m looking to collaborate on .** -->
 
 - I’m looking for help with **mods**
-
-- Ask me about **Java || anime**
 
 <!-- Fun fact **.** -->
 
