@@ -12,7 +12,7 @@
 
 <!-- I’m currently working on. -->
 
-- I’m currently learning **Java, SQL, HTML, CSS, JavaScript, PHP, Dart, Flutter**
+- I’m currently learning **Java, SQL, HTML, CSS, JavaScript, PHP 'E-com/Web Services', IOT**
 
 <!-- I’m looking to collaborate on .** -->
 
