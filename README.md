@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zymnz&show_icons=true&title_color=000000&bg_color=ffffff&locale=en&layout=compact" alt="zymnz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zymnz&show_icons=true&theme=tokyonight&title_color=000000&bg_color=ffffff&locale=en" alt="zymnz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zymnz&show_icons=true&theme=tokyonight&title_color=#ADD8E6&bg_color=ffffff&locale=en" alt="zymnz" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zymnz&theme=default" alt="github-readme-streak-stats" /></p> -->
 <img src="https://streak-stats.demolab.com?user=zymnz&theme=tokyonight" alt="GitHub Streak" />
