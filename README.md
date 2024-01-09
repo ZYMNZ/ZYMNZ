@@ -28,7 +28,7 @@
 <img align="right" alt="GIF"  width="300" src="https://media.tenor.com/Mf7U-S1qsesAAAAC/chillin-anime.gif">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zymnz&show_icons=true&title_color=000000&bg_color=ffffff&locale=en&layout=compact" alt="zymnz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zymnz&show_icons=true&title_color=#ADD8E6&bg_color=ffffff&locale=en&layout=compact" alt="zymnz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zymnz&show_icons=true&theme=tokyonight&title_color=#ADD8E6&bg_color=ffffff&locale=en" alt="zymnz" /></p>
 
