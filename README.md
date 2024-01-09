@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zymnz&show_icons=true&theme=tokyonight&title_color=000000&bg_color=ffffff&locale=en" alt="zymnz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zymnz&theme=default" alt="zymnz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zymnz&theme=default" alt="github-readme-streak-stats" /></p>
 
 
 
