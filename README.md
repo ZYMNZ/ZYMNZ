@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zymnz" alt="zymnz" /></a> </p>
 
 
-- I’m currently learning **Java, SQL, HTML, CSS, JS, PHP 'E-com/Web Services', IOT, Unity**
+- I’m currently learning **Java, SQL, HTML, CSS, JS, PHP 'E-com/Web Services', IOT, Unity, C#**
 
 
 - I’m looking for help with **mods**
