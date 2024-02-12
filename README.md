@@ -1,4 +1,4 @@
-<img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-25.gif" alt="Hello" width="600px">
+<!-- <img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-25.gif" alt="Hello" width="600px"> -->
 
 <h1 align="center">Hey, I'm Conan</h1>
 <h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
