@@ -6,9 +6,15 @@
 <a href="https://app.daily.dev/Conan_7x"><img src="https://api.daily.dev/devcards/8643bff095954ccf91a913f3cc3f5a84.png?r=bfl" width="330" alt="Conan's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZYMNZ-ca&label=Profile%20views&color=77008f&style=plastic" alt="ZYMNZ" /> </p>
 
+<!--
+![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight&bgColor=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zymnz&layout=donut&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zymnz" alt="zymnz" /></a> </p>
 
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zymnz" alt="zymnz" /></a> </p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=zymnz&theme=tokyonight&bg_color=00000000&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 - I’m currently learning **Java, SQL, HTML, CSS, JS, PHP(slim framework) 'E-com/Web Services', IOT, Unity, C#**
 
