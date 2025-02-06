@@ -16,7 +16,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zymnz" alt="zymnz" /></a> </p> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=zymnz&theme=tokyonight&bg_color=00000000&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-- I’m currently learning **Java, SQL, HTML, CSS, JS, PHP(slim framework) 'E-com/Web Services', IOT, Unity, C#**
+- I’m currently learning **Java, SQL, HTML, CSS, JS, PHP(slim framework) 'E-com/Web Services', IOT, Unity, C#, React, Node.JS**
 
 
 - I’m looking for help with **mods**
