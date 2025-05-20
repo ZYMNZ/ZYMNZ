@@ -1,6 +1,6 @@
 <!-- <img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-25.gif" alt="Hello" width="600px"> -->
 
-<h1 align="center">Hey, I'm Conan 👋🏻</h1>
+<h1 align="center">Hey, I'm Conan <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
 <h3 align="center">A full time student in Software Engineering at Concordia University.</h3>
 <img align="right" alt="GIF"  width="450" src="https://c.tenor.com/_ddSsFirCcUAAAAd/shinobu.gif">
 <a href="https://app.daily.dev/Conan_7x"><img src="https://api.daily.dev/devcards/8643bff095954ccf91a913f3cc3f5a84.png?r=bfl" width="330" alt="Conan's Dev Card"/></a>
