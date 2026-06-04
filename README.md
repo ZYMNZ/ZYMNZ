@@ -44,6 +44,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlight" width="40" height="40"/> 
+  <img src="https://github.com/slimphp.png" alt="slim" width="40" height="40"/> 
 </p>
 
 
